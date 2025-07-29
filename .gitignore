@@ -1,0 +1,11 @@
+# .gitignore
+# Исключаем чувствительные и временные файлы
+.env
+.env.example
+creds.json
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
