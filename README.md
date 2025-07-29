@@ -60,7 +60,7 @@ castdev_restaurant_clients/
    ```
 5. Запустите бота:
    ```sh
-   python -m bot.main
+   python run.py
    ```
    или (Windows)
    ```sh
